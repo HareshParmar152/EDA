@@ -7,4 +7,4 @@
 
 Please read PPT.PDF file for more infomation.
 
-Data source : https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
+Data source : https://drive.google.com/file/d/18h5aLEJ9UurlDzX_4VSBjSSkGfnGL5qh/view?usp=sharing
